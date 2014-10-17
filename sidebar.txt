@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fiw:home|Door43 (fiw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fiw|d43-fiw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fiw/archive/master.zip|d43-fiw.zip]]
+
+**Recent Changes**
+{{changes>ns = fiw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fiw|Ethnologue data]]
+
